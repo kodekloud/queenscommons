@@ -80,7 +80,7 @@
             imagePath: '//cdn.jsdelivr.net/jquery.jreject/1.0.2/images/'
         });      
     });
-    setEndPoint('http://alpinecentre.mallmaverick.com/api/v2/alpinecentre/all.json');
+    setEndPoint('http://queenscommons.mallmaverick.com/api/v2/queenscommons/all.json');
     sessionStorage.setItem('primary_locale', 'en-CA');
     sessionStorage.setItem('secondary_locale', 'fr-CA');
 </script>
