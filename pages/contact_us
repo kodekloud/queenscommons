@@ -20,15 +20,15 @@
                         <p class="directory_content">{{address1}}</p>
                         <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                         <br>
-                    <p class="directory_content"><strong>Ezio DiGiorgi</strong> 
+                    <p class="directory_content"><strong>Jeff Gracey</strong> 
                     <br>Property Manager
-                    <br>(416) 236-7244
-                    <br><a href="mailto:edigiorgi@bentallkennedy.com">edigiorgi@bentallkennedy.com</a></p>
+                    <br>(416) 236-0928
+                    <br><a href="mailto:jgracey@bentallkennedy.com">jgracey@bentallkennedy.com</a></p>
                     <br>
-                    <p class="directory_content"><strong>Garnet Peirson</strong> 
+                    <p class="directory_content"><strong>Martin Kaefer</strong> 
                     <br>Director of Leasing
                     <br>1.866.681.2715
-                    <br><a href="mailto:gpeirson@bentallkennedy.com">gpeirson@bentallkennedy.com</a></p>
+                    <br><a href="mailto:mkaefer@bentallkennedy.com">mkaefer@bentallkennedy.com</a></p>
                     </script>
                 </div>
             </div>
@@ -96,15 +96,15 @@
                     <p class="directory_content">{{address1}}</p>
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                     <br>
-                    <p class="directory_content"><strong>Ezio DiGiorgi</strong> 
+                   <p class="directory_content"><strong>Jeff Gracey</strong> 
                     <br>Property Manager
-                    <br>(416) 236-7244
-                    <br><a href="mailto:edigiorgi@bentallkennedy.com">edigiorgi@bentallkennedy.com</a></p>
+                    <br>(416) 236-0928
+                    <br><a href="mailto:jgracey@bentallkennedy.com">jgracey@bentallkennedy.com</a></p>
                     <br>
-                    <p class="directory_content"><strong>Garnet Peirson</strong> 
+                    <p class="directory_content"><strong>Martin Kaefer</strong> 
                     <br>Director of Leasing
                     <br>1.866.681.2715
-                    <br><a href="mailto:gpeirson@bentallkennedy.com">gpeirson@bentallkennedy.com</a></p>
+                    <br><a href="mailto:mkaefer@bentallkennedy.com">mkaefer@bentallkennedy.com</a></p>
                 </script>
             </div>
             
