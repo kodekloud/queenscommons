@@ -21,12 +21,12 @@
                         <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                         <br>
                     <p class="directory_content"><strong>Jeff Gracey</strong> 
-                    <br>Property Manager
+                    <br>Senior Property Manager
                     <br>(416) 236-0928
                     <br><a href="mailto:jgracey@bentallkennedy.com">jgracey@bentallkennedy.com</a></p>
                     <br>
                     <p class="directory_content"><strong>Martin Kaefer</strong> 
-                    <br>Director of Leasing
+                    <br>Vice President of Leasing
                     <br>1.866.681.2715
                     <br><a href="mailto:mkaefer@bentallkennedy.com">mkaefer@bentallkennedy.com</a></p>
                     </script>
@@ -97,12 +97,12 @@
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                     <br>
                    <p class="directory_content"><strong>Jeff Gracey</strong> 
-                    <br>Property Manager
+                    <br>Senior Property Manager
                     <br>(416) 236-0928
                     <br><a href="mailto:jgracey@bentallkennedy.com">jgracey@bentallkennedy.com</a></p>
                     <br>
                     <p class="directory_content"><strong>Martin Kaefer</strong> 
-                    <br>Director of Leasing
+                    <br>Vice President of Leasing
                     <br>1.866.681.2715
                     <br><a href="mailto:mkaefer@bentallkennedy.com">mkaefer@bentallkennedy.com</a></p>
                 </script>
